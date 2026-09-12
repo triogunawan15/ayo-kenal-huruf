@@ -1,0 +1,13 @@
+{
+  "name": "Ayo Kenal Huruf",
+  "short_name": "Kenal Huruf",
+  "description": "Aplikasi belajar mengenal huruf untuk anak TK, berbasis riset literasi awal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EAF6FF",
+  "theme_color": "#FF8A3D",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
