@@ -1,0 +1,32 @@
+[
+  { "id": "L01", "char": "a", "group": 1, "order": 1,  "name": "a",   "sound": "a",   "word": "Ayam",    "emoji": "🐔", "similar": [] },
+  { "id": "L02", "char": "i", "group": 1, "order": 2,  "name": "i",   "sound": "i",   "word": "Ikan",    "emoji": "🐟", "similar": ["l"] },
+  { "id": "L03", "char": "b", "group": 1, "order": 3,  "name": "be",  "sound": "buh", "word": "Bola",    "emoji": "⚽", "similar": ["d", "p"] },
+  { "id": "L04", "char": "m", "group": 1, "order": 4,  "name": "em",  "sound": "muh", "word": "Meja",    "emoji": "🪑", "similar": ["n"] },
+  { "id": "L05", "char": "s", "group": 1, "order": 5,  "name": "es",  "sound": "suh", "word": "Susu",    "emoji": "🥛", "similar": [] },
+
+  { "id": "L06", "char": "u", "group": 2, "order": 6,  "name": "u",   "sound": "u",   "word": "Ubi",     "emoji": "🍠", "similar": ["n"] },
+  { "id": "L07", "char": "t", "group": 2, "order": 7,  "name": "te",  "sound": "tuh", "word": "Topi",    "emoji": "🎩", "similar": [] },
+  { "id": "L08", "char": "l", "group": 2, "order": 8,  "name": "el",  "sound": "luh", "word": "Lampu",   "emoji": "💡", "similar": ["i"] },
+  { "id": "L09", "char": "e", "group": 2, "order": 9,  "name": "e",   "sound": "e",   "word": "Ember",   "emoji": "🪣", "similar": [] },
+  { "id": "L10", "char": "n", "group": 2, "order": 10, "name": "en",  "sound": "nuh", "word": "Nanas",   "emoji": "🍍", "similar": ["m", "u"] },
+
+  { "id": "L11", "char": "o", "group": 3, "order": 11, "name": "o",   "sound": "o",   "word": "Obat",    "emoji": "💊", "similar": [] },
+  { "id": "L12", "char": "k", "group": 3, "order": 12, "name": "ka",  "sound": "kuh", "word": "Kuda",    "emoji": "🐴", "similar": [] },
+  { "id": "L13", "char": "d", "group": 3, "order": 13, "name": "de",  "sound": "duh", "word": "Dadu",    "emoji": "🎲", "similar": ["b", "p"] },
+  { "id": "L14", "char": "p", "group": 3, "order": 14, "name": "pe",  "sound": "puh", "word": "Pisang",  "emoji": "🍌", "similar": ["b", "d", "q"] },
+  { "id": "L15", "char": "r", "group": 3, "order": 15, "name": "er",  "sound": "ruh", "word": "Roti",    "emoji": "🍞", "similar": [] },
+
+  { "id": "L16", "char": "g", "group": 4, "order": 16, "name": "ge",  "sound": "guh", "word": "Gajah",   "emoji": "🐘", "similar": [] },
+  { "id": "L17", "char": "h", "group": 4, "order": 17, "name": "ha",  "sound": "huh", "word": "Hujan",   "emoji": "🌧️", "similar": [] },
+  { "id": "L18", "char": "j", "group": 4, "order": 18, "name": "je",  "sound": "juh", "word": "Jam",     "emoji": "⏰", "similar": [] },
+  { "id": "L19", "char": "c", "group": 4, "order": 19, "name": "ce",  "sound": "cuh", "word": "Cangkir", "emoji": "☕", "similar": [] },
+  { "id": "L20", "char": "w", "group": 4, "order": 20, "name": "we",  "sound": "wuh", "word": "Wortel",  "emoji": "🥕", "similar": [] },
+
+  { "id": "L21", "char": "y", "group": 5, "order": 21, "name": "ye",  "sound": "yuh", "word": "Yoyo",    "emoji": "🪀", "similar": [] },
+  { "id": "L22", "char": "z", "group": 5, "order": 22, "name": "zet", "sound": "zuh", "word": "Zebra",   "emoji": "🦓", "similar": [] },
+  { "id": "L23", "char": "f", "group": 5, "order": 23, "name": "ef",  "sound": "fuh", "word": "Foto",    "emoji": "📷", "similar": [] },
+  { "id": "L24", "char": "v", "group": 5, "order": 24, "name": "ve",  "sound": "vuh", "word": "Vas",     "emoji": "🏺", "similar": [] },
+  { "id": "L25", "char": "q", "group": 5, "order": 25, "name": "ki",  "sound": "kuh", "word": "Qori",    "emoji": "🎙️", "similar": ["b", "d", "p"] },
+  { "id": "L26", "char": "x", "group": 5, "order": 26, "name": "eks", "sound": "ks",  "word": "Xilofon", "emoji": "🎹", "similar": [] }
+]
